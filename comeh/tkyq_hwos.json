@@ -71,7 +71,7 @@
                     "status":1
                 }
             ],
-            "status":1,
+            "status":0,
             "extra_ad_name":"",
             "delay_time":40,
             "period_time":40
