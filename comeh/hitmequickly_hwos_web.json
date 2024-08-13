@@ -3,7 +3,7 @@
     "pos_url":"https://www.hyper4rc.com",
     "shields":["hyper4rcxx.com"],
     "x":0,
-    "y":170,
-    "w":656,
-    "h":546
+    "y":0,
+    "w":-1,
+    "h":1
 }
