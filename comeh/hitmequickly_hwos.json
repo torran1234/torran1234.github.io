@@ -82,8 +82,8 @@
             ],
             "status":1,
             "extra_ad_name":"",
-            "delay_time":80,
-            "period_time":80
+            "delay_time":60,
+            "period_time":60
         },
         {
             "name":"intervalmainmenu",
