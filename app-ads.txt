@@ -1,4 +1,5 @@
 google.com, pub-2947761394684373, DIRECT, f08c47fec0942fa0
+facebook.com, 305376297218916, DIRECT, c3e20eee3f780d68
 pangleglobal.com, 5006748, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 applovin.com, 78490c916b32b53b906e01efb92cdbb3, DIRECT
